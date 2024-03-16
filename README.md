@@ -1,6 +1,6 @@
 <div align="center">
 
-# DiveDish: Discover Delightful Recipes from Around the World!
+# DiveDish : Simple Food Recipes
 
 </div>
 
