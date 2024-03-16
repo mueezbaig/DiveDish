@@ -1,4 +1,8 @@
+<div align="center">
+
 # DiveDish: Discover Delightful Recipes from Around the World!
+
+</div>
 
 DiveDish is your ultimate destination for exploring simple yet delicious food recipes spanning various cuisines. Whether you're an avid home cook or an adventurous foodie, DiveDish offers a diverse array of culinary delights to tantalize your taste buds.
 
@@ -40,9 +44,9 @@ DiveDish is your ultimate destination for exploring simple yet delicious food re
    ![Desserts](https://github.com/mueezbaig/DiveDish/blob/main/snap_shots/127.0.0.1_5502_desserts_Desserts.html.png)
 
 
-### A Snapshot of a recipe
+### A Snapshot of a Recipe
 
-![Matar Paneer](https://github.com/mueezbaig/DiveDish/blob/main/snap_shots/127.0.0.1_5502_Italian_italian_cuisine.html.png)
+![Matar Paneer](https://github.com/mueezbaig/DiveDish/blob/main/snap_shots/matar_paneer.png)
 
 
 ### Contact
@@ -63,4 +67,3 @@ DiveDish warmly welcomes contributions from food enthusiasts, culinary experts, 
 ---
 
 &copy; 2024 DiveDish. All rights reserved.
-
